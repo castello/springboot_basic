@@ -36,7 +36,7 @@ public class RequestInfo {
     }
 }
 
-[실행결과] http://localhost:8080/ch2/requestInfo?year=2021&month=10&day=1 
+[실행결과] http://localhost:8080/ch2/requestInfo?year=2023&month=1&day=1 
 request.getCharacterEncoding()=UTF-8
 request.getContentLength()=-1
 request.getContentType()=null
@@ -49,7 +49,7 @@ request.getRequestURI()=http://localhost:8080/ch2/requestInfo
 request.getRequestURI()=/ch2/requestInfo
 request.getContextPath()=/ch2
 request.getServletPath()=/requestInfo
-request.getQueryString()=year=2021&month=10&day=1
+request.getQueryString()=year=2023&month=1&day=1
 request.getLocalName()=localhost
 request.getLocalPort()=8080
 request.getRemoteAddr()=0:0:0:0:0:0:0:1   <--- AWS에 배포(deploy)한 다음에 실행하면, 실제 ip주소를 확인할 수 있음.
