@@ -28,7 +28,7 @@ public class YoilTeller {
         cal.set(yyyy, mm - 1, dd);
 
         int dayOfWeek = cal.get(Calendar.DAY_OF_WEEK);
-        char yoil = " 일월화수목금토".charAt(dayOfWeek);
+        char yoil = " 일월화수목금토".charAt(dayOfWeek); // 일요일:1, 월요일:2, ... 
 
         // 3. 출력
         response.setContentType("text/html");    // 응답의 형식을 html로 지정
