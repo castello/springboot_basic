@@ -25,10 +25,11 @@ public class YoilTeller {
 
         // 2. 처리
         Calendar cal = Calendar.getInstance();
+        cal.clear();  // 모든 필드(날짜, 시간 등)을 초기화
         cal.set(yyyy, mm - 1, dd);
 
         int dayOfWeek = cal.get(Calendar.DAY_OF_WEEK);
-        char yoil = " 일월화수목금토".charAt(dayOfWeek); // 일요일:1, 월요일:2, ... 
+        char yoil = "일월화수목금토".charAt(dayOfWeek-1); // dayofWeek는 일요일:1, 월요일:2, ... 
 
         // 3. 출력
         response.setContentType("text/html");    // 응답의 형식을 html로 지정
