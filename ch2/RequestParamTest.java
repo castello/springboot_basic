@@ -57,6 +57,7 @@ public class RequestParamTest {
 // =======================================================================
 	
 	@RequestMapping("/requestParam6") 
+//	public String main6(@RequestParam(required=false) int year) {   
 	public String main6(int year) {   
 //		http://localhost/requestParam6        ---->> 500 java.lang.IllegalStateException: Optional int parameter 'year' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.
 //		http://localhost/requestParam6?year   ---->> 400 Bad Request, nested exception is java.lang.NumberFormatException: For input string: "" 
