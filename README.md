@@ -1,17 +1,17 @@
 > # 남궁성의 Spring Boot 강좌 - 기본편
-> Spring Boot 입문자를 위한 최고의 강좌 - https://fastcampus.co.kr/dev_academy_nks2
+> Spring Boot 입문자를 위한 최고의 강좌 - https://fastcampus.co.kr/dev_academy_nks2  
 > Spring framework 강좌 - 심화편(준비중)  
 > Spring boot 강좌 - 심화편(준비중)  
 > email : seong.namkung@gmail.com    
-> 수강생 전용 Q&A : https://cafe.naver.com/javachobostudy?iframe_url=/ArticleList.nhn%3Fsearch.clubid=10286641%26search.menuid=221%26search.boardtype=L  
+> 수강생 전용 Q&A : https://cafe.naver.com/javachobostudy?iframe_url=/ArticleList.nhn%3Fsearch.clubid=10286641%26search.menuid=221%26search.boardtype=L   
 <br>
 
 # Part1. Spring Boot 시작하기
 ## 1. 개요    
-  - ### Spring Boot란?  
-    Spring makes programming Java quicker, easier, and safer for everybody. 
-    Spring’s focus on speed, simplicity, and productivity has made it the world's most popular Java framework.    
-    https://spring.io/why-spring
+  - ### Spring Boot란?   
+    Spring makes programming Java quicker, easier, and safer for everybody.   
+    Spring’s focus on speed, simplicity, and productivity has made it the world's most popular Java framework.      
+    https://spring.io/why-spring  
 
   - ### Spring MVC란?  
     A Spring MVC is a framework to build web applications. It follows the MVC(Model-View-Controller) design pattern.
