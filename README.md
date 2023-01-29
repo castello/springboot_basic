@@ -22,33 +22,7 @@
 
 ## 2. 개발 도구 설치 & 설정  
 
-1. VS Code 설치 - https://code.visualstudio.com/download  
-  - 유용한 플러그인 - https://marketplace.visualstudio.com/VSCode  
-  한글 팩 - https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ko  
-  open in browser - https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser  
-  Prettier - Code formatter - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode  
-  indent-rainbow - https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow  
-  태그이름 자동변경 - https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag   
-
-<br>
-
-2. git 설치  
-    [Windows] https://git-scm.com/download/win      
-  
-    [Mac] 먼저 terminal열고, 아래와 같이 입력하고 엔터치세요.   
-
-           $ git
-           
-     'git'명령어는... 도구를 설치하시겠습니까?라고 묻는 창이 열리면 '설치'를 클릭.(몇분 소요) 설치 완료 후, 아래와 같이 입력후 엔터.
-           
-           $ git --version  
-           git version 2.28.0  
-
-    위와 같이 나오면 설치가 잘된 것입니다. 버전이 조금 달라도 괜찮습니다.  
-    <br>
-    <br>
-
-3. JDK11 설치  
+1. JDK11 설치  
     [자바의 정석 - 무료강의] https://youtube.com/playlist?list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp  
 
     [Windows] https://download.java.net/java/ga/jdk11/openjdk-11_windows-x64_bin.zip
@@ -76,7 +50,7 @@
 <br>
 <br>
   
-4. IntelliJ 설치   
+2. IntelliJ 설치   
 **Windows** - https://www.jetbrains.com/idea/download/#section=windows  
 **MacOS** - https://www.jetbrains.com/idea/download/#section=mac  
 **MacOS M1** - https://www.jetbrains.com/idea/download/download-thanks.html?platform=macM1  
