@@ -55,9 +55,10 @@
 **MacOS** - https://www.jetbrains.com/idea/download/#section=mac  
 **MacOS M1** - https://www.jetbrains.com/idea/download/download-thanks.html?platform=macM1  
 
-[참고] IntelliJ 학생 라이센스 - https://www.jetbrains.com/shop/eform/students  
+   **[참고]** IntelliJ 학생 라이센스 - https://www.jetbrains.com/shop/eform/students  
 <br>
-
+<br>
+<br>
 
 3. MySQL 설치   
 **Windows, MacOS** - https://downloads.mysql.com/archives/community/  
