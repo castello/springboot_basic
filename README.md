@@ -60,4 +60,4 @@
 
 
 3. MySQL 설치   
-https://downloads.mysql.com/archives/community/  
+**Windows, MacOS** - https://downloads.mysql.com/archives/community/  
