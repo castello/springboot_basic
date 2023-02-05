@@ -58,3 +58,6 @@
 [참고] IntelliJ 학생 라이센스 - https://www.jetbrains.com/shop/eform/students  
 <br>
 
+
+3. MySQL 설치   
+https://downloads.mysql.com/archives/community/  
