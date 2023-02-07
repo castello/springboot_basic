@@ -62,3 +62,4 @@
 
 3. MySQL 설치   
 **Windows, MacOS** - https://downloads.mysql.com/archives/community/  
+   **[참고]** MacOS(M1, M2)에 MySQL설치하는 방법 - https://codechobo.tistory.com/31  
