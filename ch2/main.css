@@ -1,0 +1,35 @@
+* {
+    margin : 0;
+    padding : 0;
+}
+
+#header > ul {
+    background-color : black;
+    color: gray;
+}
+
+#header > ul > li {
+    list-style : none;
+    display : inline-block;
+    /*   background-color : blue; */
+}
+
+#header > ul > li > a {
+    text-decoration : none;
+    padding : 10px;
+    display : block;
+    /*   background-color: yellow; */
+}
+
+#header > ul > li > a:visited {
+    color: gray;
+}
+
+#header > ul > li > a:hover {
+    color: white;
+}
+
+#footer {
+    text-align : center;
+    width: 100%;
+}
