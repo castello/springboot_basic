@@ -59,7 +59,5 @@ class ManyToOneTest {
         System.out.println("b1 = " + b1);
         System.out.println("b2 = " + b2);
 
-        user = userRepository.findById("aaa").orElse(null);
-        System.out.println("user = " + user);
     }
 }
